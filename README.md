@@ -1,7 +1,3 @@
-Here's a detailed `README.md` file for your **Console-Based Expense Splitter App** written in C++.
-
----
-
 # Console-Based Expense Splitter App
 
 This is a simple **C++ console application** designed to manage and split expenses among members of a group. The app supports creating groups, recording payments, settling balances, and persisting group data to a text file (`Database.txt`).
@@ -38,18 +34,6 @@ This is a simple **C++ console application** designed to manage and split expens
    - The app reads from this file during startup to retrieve existing groups.
 
 ---
-
-## File Structure
-
-```
-.
-├── split.cpp
-├── Database.txt (auto-created after running the program)
-└── README.md
-```
-
----
-
 ## How to Compile and Run
 
 ### Prerequisites
